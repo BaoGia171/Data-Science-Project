@@ -1,0 +1,15 @@
+# Ignore large data file (46MB - vượt giới hạn GitHub 25MB)
+data_public.csv
+
+# Ignore model binary (có thể tái tạo từ notebook)
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

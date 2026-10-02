@@ -1,0 +1,8 @@
+﻿diagnostic,count
+Chuỗi rỗng chuyển thành missing,0
+Lỗi ép kiểu số,0
+Dòng có feature tùy chọn ngoài miền,78
+Dòng tọa độ có giá trị nhưng không hợp lệ,54
+Dòng width × length không nhất quán với Area,128
+Nhóm có từ hai tin trở lên,262
+Dòng thuộc nhóm có từ hai tin trở lên,771
